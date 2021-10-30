@@ -1,0 +1,17 @@
+.photos{
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+.photo_box0, .photo_box1, .photo_box2, .photo_box3{
+  width: 500px;
+  margin: 10px;
+  border: 1px solid rgb(214, 214, 214);
+}
+img{
+  width: 100%;
+}
+.hidden{
+  display: none;
+}
